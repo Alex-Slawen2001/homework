@@ -1,3 +1,4 @@
+## Задание 1
 <!-- Задание1 -->
 function getArrayParams(...arr) {
    let max = 15;
@@ -19,7 +20,7 @@ function getArrayParams(...arr) {
  getArrayParams([125, 58, 65, 78])
 
 
- 
+ ##Задание 2
  
  <!-- Задание2 -->
  function summElementWorker(...array)  {
